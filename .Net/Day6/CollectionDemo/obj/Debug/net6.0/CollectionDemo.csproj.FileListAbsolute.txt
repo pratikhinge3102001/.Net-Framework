@@ -1,0 +1,14 @@
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\CollectionDemo\bin\Debug\net6.0\CollectionDemo.exe
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\CollectionDemo\bin\Debug\net6.0\CollectionDemo.deps.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\CollectionDemo\bin\Debug\net6.0\CollectionDemo.runtimeconfig.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\CollectionDemo\bin\Debug\net6.0\CollectionDemo.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\CollectionDemo\bin\Debug\net6.0\CollectionDemo.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\CollectionDemo\obj\Debug\net6.0\CollectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\CollectionDemo\obj\Debug\net6.0\CollectionDemo.AssemblyInfoInputs.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\CollectionDemo\obj\Debug\net6.0\CollectionDemo.AssemblyInfo.cs
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\CollectionDemo\obj\Debug\net6.0\CollectionDemo.csproj.CoreCompileInputs.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\CollectionDemo\obj\Debug\net6.0\CollectionDemo.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\CollectionDemo\obj\Debug\net6.0\refint\CollectionDemo.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\CollectionDemo\obj\Debug\net6.0\CollectionDemo.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\CollectionDemo\obj\Debug\net6.0\CollectionDemo.genruntimeconfig.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\CollectionDemo\obj\Debug\net6.0\ref\CollectionDemo.dll

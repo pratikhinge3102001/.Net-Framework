@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ybQco6NJraclGVcf2Qc9+6SH7UP3lGEV+PiJZHSBQbIYWGPAKC8K6mElXG06gM0HNjFdngCL2zAA/A2EPbIkA==",
+  "success": true,
+  "projectFilePath": "\\\\192.168.1.6\\Student_Data\\For DAC\\.Net\\Day7\\Delegates_LINq_FileIO\\FileIO\\FileIO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EXPERT SOLUTION\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\EXPERT SOLUTION\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\EXPERT SOLUTION\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\EXPERT SOLUTION\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\StreamDemo\bin\Debug\net6.0\StreamDemo.exe
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\StreamDemo\bin\Debug\net6.0\StreamDemo.deps.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\StreamDemo\bin\Debug\net6.0\StreamDemo.runtimeconfig.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\StreamDemo\bin\Debug\net6.0\StreamDemo.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\StreamDemo\bin\Debug\net6.0\StreamDemo.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\StreamDemo\obj\Debug\net6.0\StreamDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\StreamDemo\obj\Debug\net6.0\StreamDemo.AssemblyInfoInputs.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\StreamDemo\obj\Debug\net6.0\StreamDemo.AssemblyInfo.cs
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\StreamDemo\obj\Debug\net6.0\StreamDemo.csproj.CoreCompileInputs.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\StreamDemo\obj\Debug\net6.0\StreamDemo.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\StreamDemo\obj\Debug\net6.0\refint\StreamDemo.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\StreamDemo\obj\Debug\net6.0\StreamDemo.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\StreamDemo\obj\Debug\net6.0\StreamDemo.genruntimeconfig.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\StreamDemo\obj\Debug\net6.0\ref\StreamDemo.dll

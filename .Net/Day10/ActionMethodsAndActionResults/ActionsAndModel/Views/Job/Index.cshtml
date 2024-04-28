@@ -1,0 +1,41 @@
+﻿@model JobApplication
+@{
+    ViewData["Title"] = "Job Application";
+}
+
+<h2>Job Application</h2>
+<form class="Emp" asp-action="DisplayEmp" method="post">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for>"DOB:" </label>
+        <input asp-for="DOB" type="text" asp-format="{0:d}" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for>"Gender" </label>
+        <div>
+            <input asp-for="text" type="radio" value="M"/>Male
+            <input asp-for="text" type="radio" value="F" />Female
+        </div>
+    </div>
+    <div class="form-group">
+        <label asp-for>"Experience:" </label>
+        <select asp-for="Experience" class="form-control">
+            <option 
+        </label>
+            </select>
+    </div>
+    <div class="form-group">
+        <label>Gender: </label>
+        <select name="gender" class="form-control">
+            <option value="male">Male</option>
+            <option value="female">FeMale</option>
+        </select>
+    </div>
+    <div>
+        <input type="submit" value="Save" class="btn btn-primary" />
+    </div>
+
+</form>

@@ -1,0 +1,14 @@
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day5\Solution1\ExceptionDemo\bin\Debug\net6.0\ExceptionDemo.exe
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day5\Solution1\ExceptionDemo\bin\Debug\net6.0\ExceptionDemo.deps.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day5\Solution1\ExceptionDemo\bin\Debug\net6.0\ExceptionDemo.runtimeconfig.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day5\Solution1\ExceptionDemo\bin\Debug\net6.0\ExceptionDemo.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day5\Solution1\ExceptionDemo\bin\Debug\net6.0\ExceptionDemo.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day5\Solution1\ExceptionDemo\obj\Debug\net6.0\ExceptionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day5\Solution1\ExceptionDemo\obj\Debug\net6.0\ExceptionDemo.AssemblyInfoInputs.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day5\Solution1\ExceptionDemo\obj\Debug\net6.0\ExceptionDemo.AssemblyInfo.cs
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day5\Solution1\ExceptionDemo\obj\Debug\net6.0\ExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day5\Solution1\ExceptionDemo\obj\Debug\net6.0\ExceptionDemo.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day5\Solution1\ExceptionDemo\obj\Debug\net6.0\refint\ExceptionDemo.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day5\Solution1\ExceptionDemo\obj\Debug\net6.0\ExceptionDemo.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day5\Solution1\ExceptionDemo\obj\Debug\net6.0\ExceptionDemo.genruntimeconfig.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day5\Solution1\ExceptionDemo\obj\Debug\net6.0\ref\ExceptionDemo.dll

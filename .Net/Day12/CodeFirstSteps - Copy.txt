@@ -1,0 +1,58 @@
+1. Create MVC Project
+
+2. Add following NuGet Referances to Application
+
+Microsoft.EntityFrameworkCore          6.0.14
+Microsoft.EntityFrameworkCore.Design   6.0.14
+Microsoft.EntityFrameworkCore.Tools    6.0.14
+Pomelo.EntityFrameworkCore.MySql       6.0.1
+
+3. In Models folder Create User.cs and job.cs
+ public class User
+    {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int Id { get; set; }
+        public string Name { get; set; }
+    }
+public class Job
+    {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public int Userid  { get; set; }
+        [ForeignKey("Userid")]
+        public virtual User? User { get; set; }
+    }
+
+4.Create data Folder Add MySqlDbContext.cs file
+
+public class MySqlDbContext:DbContext
+    {
+        public DbSet<User> Users { get; set; }
+        public DbSet<Job> Jobs { get; set; }
+        public MySqlDbContext(DbContextOptions<MySqlDbContext> options) : base(options) { 
+        }
+
+    }
+
+5. Add Connection string in Appsetting.json file
+
+"ConnectionStrings": {"Defaultcon": "server=localhost;user=root;password=12345;database=myCodeFirstEF"}
+
+6. Write Following code in Program.cs file
+builder.Services.AddDbContext<MySqlDbContext>(options => {
+    var con = builder.Configuration.GetConnectionString("Defaultcon");
+    options.UseMySql(con,ServerVersion.AutoDetect(con));
+}
+);
+
+7.  Run Following cmd on tools->NuGet Package Manager->Package Manager Console
+dotnet tool install --global dotnet-ef      (Dont run if already installed)
+dotnet ef migrations add InitialCreate
+dotnet ef database update 
+
+8. Add record in DB
+
+9 Add MVC Controller With Views using Entity Framework

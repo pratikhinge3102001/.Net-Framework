@@ -1,0 +1,11 @@
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day3\Solution1\MyEntities\bin\Debug\net6.0\MyEntities.deps.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day3\Solution1\MyEntities\bin\Debug\net6.0\MyEntities.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day3\Solution1\MyEntities\bin\Debug\net6.0\MyEntities.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day3\Solution1\MyEntities\obj\Debug\net6.0\MyEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day3\Solution1\MyEntities\obj\Debug\net6.0\MyEntities.AssemblyInfoInputs.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day3\Solution1\MyEntities\obj\Debug\net6.0\MyEntities.AssemblyInfo.cs
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day3\Solution1\MyEntities\obj\Debug\net6.0\MyEntities.csproj.CoreCompileInputs.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day3\Solution1\MyEntities\obj\Debug\net6.0\MyEntities.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day3\Solution1\MyEntities\obj\Debug\net6.0\refint\MyEntities.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day3\Solution1\MyEntities\obj\Debug\net6.0\MyEntities.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day3\Solution1\MyEntities\obj\Debug\net6.0\ref\MyEntities.dll

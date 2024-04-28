@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HTML_Helper Demo\\HTMLHelperDemo",
+    "\\Razor_CRUD_View",
+    "\\Razor_CRUD_View\\RazorApp",
+    "\\Razor_CRUD_View\\RazorApp\\Controllers",
+    "\\Razor_CRUD_View\\RazorApp\\DAL",
+    "\\Razor_CRUD_View\\RazorApp\\Models",
+    "\\Razor_CRUD_View\\RazorApp\\Views",
+    "\\Razor_CRUD_View\\RazorApp\\Views\\Employee",
+    "\\Razor_CRUD_View\\RazorApp\\Views\\Home"
+  ],
+  "SelectedNode": "\\Razor_CRUD_View\\RazorApp\\DAL\\EmpDAL.cs",
+  "PreviewInSolutionExplorer": false
+}

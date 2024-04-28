@@ -1,0 +1,51 @@
+Routing in ASP.NET Core MVC
+
+Routing is the process through which the application matches an incoming URL path and executes the corresponding action methods. ASP.NET Core MVC uses a routing middleware to match the URLs of incoming requests and map them to specific action methods.
+
+There are two types of routing for action methods:
+
+Conventional Routing
+Attribute Routing
+
+
+Conventional Routing
+
+Program.cs
+
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+
+
+Attribute Routing
+By placing a route on the controller or the action method, we can make use of the Attribute Routing feature.
+
+public class BooksController : Controller
+{
+    [Route("")]
+    [Route("Home")]
+    [Route("Home/Index")]
+    public IActionResult Index()
+    {
+        return View();
+    }
+
+    [Route("Home/Details/{id:int}")]
+    public IActionResult Details(int id)
+    {
+        ViewBag.Id = id;
+        return View();
+    }
+}
+
+Routing Engine:
+
+Not a physical hardware component, but rather a software module within the ASP.NET Core framework.
+Responsible for matching incoming URLs to defined routes and selecting the appropriate controller action to handle the request.
+
+Key processes:
+Parses incoming request URLs to extract relevant information (controller, action, parameters).
+Consults the routing table to find matching routes.
+Selects the best-matching route based on priority and constraints.
+Instantiates the corresponding controller and calls the specified action method.
+

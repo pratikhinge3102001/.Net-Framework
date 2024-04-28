@@ -1,0 +1,14 @@
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\GenericCollection\bin\Debug\net6.0\GenericCollection.exe
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\GenericCollection\bin\Debug\net6.0\GenericCollection.deps.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\GenericCollection\bin\Debug\net6.0\GenericCollection.runtimeconfig.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\GenericCollection\bin\Debug\net6.0\GenericCollection.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\GenericCollection\bin\Debug\net6.0\GenericCollection.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\GenericCollection\obj\Debug\net6.0\GenericCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\GenericCollection\obj\Debug\net6.0\GenericCollection.AssemblyInfoInputs.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\GenericCollection\obj\Debug\net6.0\GenericCollection.AssemblyInfo.cs
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\GenericCollection\obj\Debug\net6.0\GenericCollection.csproj.CoreCompileInputs.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\GenericCollection\obj\Debug\net6.0\GenericCollection.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\GenericCollection\obj\Debug\net6.0\refint\GenericCollection.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\GenericCollection\obj\Debug\net6.0\GenericCollection.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\GenericCollection\obj\Debug\net6.0\GenericCollection.genruntimeconfig.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\GenericCollection\obj\Debug\net6.0\ref\GenericCollection.dll

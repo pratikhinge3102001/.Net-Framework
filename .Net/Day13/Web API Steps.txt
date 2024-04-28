@@ -1,0 +1,46 @@
+1. Create/Import Db
+
+2. Create Web API application
+
+3. Add following NuGet Referances to Application
+Microsoft.EntityFrameworkCore          6.0.14
+Microsoft.EntityFrameworkCore.Design   6.0.14
+Microsoft.EntityFrameworkCore.Tools    6.0.14
+Pomelo.EntityFrameworkCore.MySql       6.0.1
+
+
+<ItemGroup>
+  <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+ 
+  <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.14" />
+  <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.14">
+	  <PrivateAssets>all</PrivateAssets>
+	  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+  </PackageReference>
+
+  <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.14">
+	  <PrivateAssets>all</PrivateAssets>
+	  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+  </PackageReference>
+  <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="6.0.1" />
+ </ItemGroup>
+
+
+4. Run Following cmd on
+ tools->NuGet Package Manager->Package Manager Console
+> dotnet tool install --global dotnet-ef  (No need to install if already install)
+
+>dotnet ef dbcontext scaffold "server=localhost;port=3306;user=root;password=root;database=knowit" pomelo.entityframeworkcore.mysql -o Models
+
+5. Add EMPTY API Controller 
+
+6. Add following Code in Program.cs file
+
+builder.Services.AddDbContext<WebAPIApp.Models.EmpdbContext>();
+
+7. Make sure you will have 
+[Route("api/[controller]/[action]")]
+
+8. for cors add following attribute to your controller 
+[EnableCors]
+

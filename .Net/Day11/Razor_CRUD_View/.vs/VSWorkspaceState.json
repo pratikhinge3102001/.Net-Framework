@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RazorApp",
+    "\\RazorApp\\Controllers",
+    "\\RazorApp\\DAL",
+    "\\RazorApp\\Models",
+    "\\RazorApp\\obj",
+    "\\RazorApp\\Properties",
+    "\\RazorApp\\Views"
+  ],
+  "SelectedNode": "\\RazorApp\\Views",
+  "PreviewInSolutionExplorer": false
+}

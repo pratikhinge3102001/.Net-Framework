@@ -1,0 +1,17 @@
+﻿@model List<Department>
+<a asp-action="SaveDept" asp-controller="Department">Add Dept</a>
+<table class="table table-bordered">
+    <thead>
+    <tr><th>Id</th><th>Name</th> <th>Edit</th> <th>Delete</th></tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+            <tr><td>@item.Id</td>
+                <td>@item.Name</td>
+                <th><a asp-controller="Department" asp-action="UpdateDept" asp-route-id="@item.Id" >Edit</a></th>
+                <th><a asp-controller="Department" asp-action="DeleteDept" asp-route-id="@item.Id">Delete</a></th>
+            </tr>
+        }
+    </tbody>
+</table>

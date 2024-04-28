@@ -1,0 +1,226 @@
+Miscellanious Topics:
+1. LogInformation
+
+	public IActionResult Index()
+        {
+            _logger.LogInformation("Log message in the Index() method");
+            return View();
+        }
+		
+2. Bundling And Minification
+
+Bundling is one of the features of MVC. By implementing this, we can improve performance request load time. Minification is the process of removing unnecessary data without changing its functionality such as removing white spaces, comments, converting the large variable names to small, etc.
+
+using System.Web.Optimization;
+ 
+namespace Bundle_MVC {
+public class BundleConfig {
+    
+    public static void
+    RegisterBundles(BundleCollection bundles)
+    {
+        //Script bundles
+        bundles.Add(
+            new ScriptBundle("~/bundles/jquery")
+                .Include("~/Scripts/jquery-{version}.js"));
+ 
+        bundles.Add(
+            new ScriptBundle("~/bundles/jqueryval")
+                .Include("~/Scripts/jquery.validate*"));
+ 
+       
+        bundles.Add(new ScriptBundle("~/bundles/modernizr")
+                        .Include("~/Scripts/modernizr-*"));
+ 
+        bundles.Add(new ScriptBundle("~/bundles/bootstrap")
+                        .Include("~/Scripts/bootstrap.js"));
+       
+        
+        //Style Bundles
+        bundles.Add(new StyleBundle("~/Content/css")
+                        .Include("~/Content/bootstrap.css",
+                                 "~/Content/site.css"));
+    }
+}
+}
+
+Register Bundle: After bundling, we need to register the bundle global.asax file. So we call this method in the Application_start method and register the bundle to bundle Config.
+
+using System.Web.Mvc;
+using System.Web.Optimization;
+using System.Web.Routing;
+ 
+namespace Bundle_MVC {
+public class MvcApplication : System.Web.HttpApplication {
+    protected void Application_Start()
+    {
+        AreaRegistration.RegisterAllAreas();
+        FilterConfig.RegisterGlobalFilters(
+            GlobalFilters.Filters);
+        RouteConfig.RegisterRoutes(RouteTable.Routes);
+        BundleConfig.RegisterBundles(BundleTable.Bundles);
+    }
+}
+}
+
+Render Bundle: After registering, render the bundles on view, you can see the script and style bundles in the view folder layout file.
+
+JS: @Scripts.Render(“Specify_scriptname”) : Used to Render javascript type of bundles
+CSS: @Styles.Render(“Specify_styletname”) :Used to Render CSS  type of bundles
+HTML
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content=
+          "width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+   
+    <!--Hidden code inside layout view-->
+   
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+</head>
+<body></body>
+</html>
+
+
+
+
+
+3. Filters
+
+Different Types of Filters
+
+There are 4 major types of filters in .NET Core. These are Authorization, Action, Result and Exception. A filter can work both in synchronous and asynchronous way. 
+
+Filter	 
+1. Authorization -> IAuthorizationFilter, IAsyncAuthorizationFilter ->	
+Used to apply authorization and security policy
+
+2. Action ->	IActionFilter, IAsyncActionFilter ->	
+Used to perform a specify work immediately before or after an action 	method is performed
+
+3. Result ->	IResultFilter, IAsyncResultFilter ->	Used to perform a specify work immediately before or after the result from an action method is processed
+
+4. Exception	-> IExceptionFilter, IAsyncExceptionFilter	 ->Used to handle exceptions
+
+create a custom filter in .NET Core:
+
+We create a custom filter class by deriving it from Dot Net “Attribute” class and a corresponding filter interface. Next we apply the filter as an attribute over any controller or it’s action method.
+
+Note that each of the filter can be implemented by using any of the 2 interfaces – Synchronous or Asynchronous one.
+
+Order of Execution of Filters
+Filters are executed in the following order:
+
+1. Authorization Filters are the first to execute.
+2. Action Filters.
+3. Result Filters are executed.
+4. Exception Filters are executed only when exceptions occur.
+
+
+
+4 MVC Security
+Using Authorize & Allow Anonymous attributes 
+
+Microsoft.AspNetCore.Authorization;
+
+[Authorize]
+public class AccountController : Controller
+{
+    [AllowAnonymous]
+    public IActionResult Login()
+    {
+        // Anyone can access the login page
+        return View();
+    }
+}
+
+
+Implementing Forms Based Authentication 
+
+services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(options => {
+        options.LoginPath = "/Account/Login"; // Set login page path
+        options.AccessDeniedPath = "/Account/AccessDenied"; // Set access denied path
+        options.ExpireTimeSpan = TimeSpan.FromMinutes(30); // Set cookie expiration
+    });
+
+ Preventing Forgery Attack using AntiForgeryToken 
+prevent Cross-Site Request Forgery (CSRF) attacks using AntiForgeryToken in ASP.NET Core MVC:
+
+Understanding CSRF:
+
+An attack where a malicious website tricks a user's browser into performing unauthorized actions on a trusted site.
+Exploits the user's authenticated session on the trusted site.
+AntiForgeryToken:
+
+A mechanism to generate unique, unpredictable tokens for each user session.
+Validates that requests originate from the intended user.
+Implementation Steps:
+
+Enable Antiforgery Services:
+
+In Program.cs, call services.AddAntiforgery() to register services.
+Generate AntiForgeryToken in Views:
+
+Use @Html.AntiForgeryToken() helper to create a hidden form field with the token.
+Validate Token in Actions:
+
+Decorate actions with the [ValidateAntiForgeryToken] attribute to enforce validation.
+Example:
+
+C#
+// In a view (e.g., a form):
+@Html.AntiForgeryToken()
+
+// Controller action:
+[HttpPost]
+[ValidateAntiForgeryToken]
+public IActionResult Edit(MyModel model)
+{
+    // Process form data
+}
+
+
+
+5. Deployment
+
+IIS server
+   Internet Information Services (IIS) is a web server created by Microsoft that runs on Windows. It's used to exchange web content with users and can host, deploy, and manage web applications.
+inetmgr
+
+Publication Methods:
+
+	Folder: Publish to a local folder for manual deployment.
+
+	Web Deploy: Publish directly to IIS servers using Web Deploy technology.
+
+	FTP: Publish to servers supporting FTP or FTPS.
+
+	Other: Docker containers, cloud services, etc.
+Steps:
+
+Publish:
+
+Right-click the project in Visual Studio and select "Publish."
+	Choose a target (e.g., Folder, IIS).
+	Configure publish settings (connection strings, environment variables).
+	Click "Publish."
+
+Copy Package:
+
+Deploy the published files to the target server's web root or designated location.
+
+Configure Web Server:
+
+IIS: Create a website or application pointing to the deployed files.
+Other Servers: Configure as needed based on hosting environment specifics.
+Environment-Specific Settings:
+
+Use appsettings.Development.json, appsettings.Production.json, etc. for different environments.
+
+Set environment variables during deployment for configuration values.

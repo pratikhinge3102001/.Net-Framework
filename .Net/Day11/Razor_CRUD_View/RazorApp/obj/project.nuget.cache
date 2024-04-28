@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qn2TSApKibaBGA/5nm3TR0BmJjOMebw9H5V6mxHTpFte4+a538h3VoDSHEqkddocght1zpssnxQAqvCdQhS8UQ==",
+  "success": true,
+  "projectFilePath": "\\\\192.168.1.6\\Student_Data\\For DAC\\.Net\\Day11\\Razor_CRUD_View\\RazorApp\\RazorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mysqlconnector\\2.3.3\\mysqlconnector.2.3.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

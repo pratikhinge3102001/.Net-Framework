@@ -1,0 +1,573 @@
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.exe
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.deps.json
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.runtimeconfig.json
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.runtimeconfig.dev.json
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.pdb
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.Views.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.Views.pdb
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\GloLoc.StaticWebAssets.Manifest.cache
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\GloLoc.StaticWebAssets.xml
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.MvcApplicationPartsAssemblyInfo.cache
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.RazorAssemblyInfo.cache
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.RazorAssemblyInfo.cs
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.AssemblyInfoInputs.cache
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.AssemblyInfo.cs
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.TagHelpers.input.cache
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.TagHelpers.output.cache
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.RazorCoreGenerate.cache
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cookie.cshtml.g.cs
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.RazorTargetAssemblyInfo.cache
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.RazorTargetAssemblyInfo.cs
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.Views.pdb
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.csproj.CopyComplete
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.dll
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.pdb
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.csprojAssemblyReference.cache
+G:\Yogesh\SEO\Yogihosting\new\GlobalizationLocalization\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Browser.cshtml.g.cs
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.StaticWebAssets.xml
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.exe
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.deps.json
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.runtimeconfig.json
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.runtimeconfig.dev.json
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.pdb
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.Views.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.Views.pdb
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.csproj.AssemblyReference.cache
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.AssemblyInfoInputs.cache
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.AssemblyInfo.cs
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.csproj.CoreCompileInputs.cache
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.RazorAssemblyInfo.cache
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.RazorAssemblyInfo.cs
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\GloLoc.StaticWebAssets.Manifest.cache
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\GloLoc.StaticWebAssets.Pack.cache
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.GloLoc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.GloLoc.props
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.GloLoc.props
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.GloLoc.props
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.TagHelpers.input.cache
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.TagHelpers.output.cache
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.RazorCoreGenerate.cache
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Browser.cshtml.g.cs
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cookie.cshtml.g.cs
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.RazorTargetAssemblyInfo.cache
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.RazorTargetAssemblyInfo.cs
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.Views.pdb
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.csproj.CopyComplete
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.dll
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.pdb
+C:\Users\sneha\Downloads\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.genruntimeconfig.cache
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.StaticWebAssets.xml
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.exe
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.deps.json
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.runtimeconfig.json
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.runtimeconfig.dev.json
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.pdb
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.Views.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.Views.pdb
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.csproj.AssemblyReference.cache
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.AssemblyInfoInputs.cache
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.AssemblyInfo.cs
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.csproj.CoreCompileInputs.cache
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.RazorAssemblyInfo.cache
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.RazorAssemblyInfo.cs
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\GloLoc.StaticWebAssets.Manifest.cache
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\GloLoc.StaticWebAssets.Pack.cache
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.GloLoc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.GloLoc.props
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.GloLoc.props
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.GloLoc.props
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.TagHelpers.input.cache
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.TagHelpers.output.cache
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.RazorCoreGenerate.cache
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Browser.cshtml.g.cs
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cookie.cshtml.g.cs
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.RazorTargetAssemblyInfo.cache
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.RazorTargetAssemblyInfo.cs
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.Views.pdb
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.csproj.CopyComplete
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.pdb
+C:\Users\sneha\OneDrive\Desktop\29-July-23\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.genruntimeconfig.cache
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.StaticWebAssets.xml
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.exe
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.deps.json
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.runtimeconfig.json
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.runtimeconfig.dev.json
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.pdb
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.Views.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.Views.pdb
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.csproj.AssemblyReference.cache
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.AssemblyInfoInputs.cache
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.AssemblyInfo.cs
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.csproj.CoreCompileInputs.cache
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.MvcApplicationPartsAssemblyInfo.cache
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.RazorAssemblyInfo.cache
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.RazorAssemblyInfo.cs
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.TagHelpers.input.cache
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.TagHelpers.output.cache
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.RazorCoreGenerate.cache
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Browser.cshtml.g.cs
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cookie.cshtml.g.cs
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.RazorTargetAssemblyInfo.cache
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.RazorTargetAssemblyInfo.cs
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.Views.pdb
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\GloLoc.StaticWebAssets.Manifest.cache
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\GloLoc.StaticWebAssets.Pack.cache
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.GloLoc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.GloLoc.props
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.GloLoc.props
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.GloLoc.props
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.csproj.CopyComplete
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.dll
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.pdb
+C:\Snehal\CDAC\March 23\DAC\MS.Net\Class Demos 2023\snehal\CSharp\Day11\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.genruntimeconfig.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.StaticWebAssets.xml
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.exe
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.deps.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.runtimeconfig.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.runtimeconfig.dev.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.Views.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\GloLoc.Views.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.csproj.AssemblyReference.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.AssemblyInfoInputs.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.AssemblyInfo.cs
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.csproj.CoreCompileInputs.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.MvcApplicationPartsAssemblyInfo.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.RazorAssemblyInfo.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.RazorAssemblyInfo.cs
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.TagHelpers.input.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.TagHelpers.output.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.RazorCoreGenerate.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Browser.cshtml.g.cs
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cookie.cshtml.g.cs
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.RazorTargetAssemblyInfo.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.RazorTargetAssemblyInfo.cs
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.Views.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\GloLoc.StaticWebAssets.Manifest.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\GloLoc.StaticWebAssets.Pack.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.GloLoc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.GloLoc.props
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.GloLoc.props
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.GloLoc.props
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.csproj.CopyComplete
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\GloLoc\GloLoc\obj\Debug\netcoreapp3.1\GloLoc.genruntimeconfig.cache

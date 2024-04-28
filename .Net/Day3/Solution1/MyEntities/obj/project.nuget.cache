@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "krTD/HuJ6wU2ckoySrdNsNguVE1sIVNm5cTRNYW64WdDPdFlgw4EzGuD54y+t7MFa+zQx/NfKJFiK8GlteTIAw==",
+  "success": true,
+  "projectFilePath": "\\\\192.168.1.6\\Student_Data\\For DAC\\.Net\\Day3\\Solution1\\MyEntities\\MyEntities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

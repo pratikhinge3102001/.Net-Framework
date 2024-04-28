@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0SERHgR6ahkiG43dWLWZ+EFkIyqEZ7cSQEhhLlUAG7KLcvI5czT5SUBGFaRtW+6l1XGkZffUw/rqkyRoR4xzkQ==",
+  "success": true,
+  "projectFilePath": "\\\\192.168.1.6\\Student_Data\\For DAC\\.Net\\Day8\\Day8_stream_Reflect_Thread\\Threading\\ThreadingDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ashujeet\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Ashujeet\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Ashujeet\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Ashujeet\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day4\Solution1\OOPIIDemo\bin\Debug\net6.0\OOPIIDemo.exe
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day4\Solution1\OOPIIDemo\bin\Debug\net6.0\OOPIIDemo.deps.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day4\Solution1\OOPIIDemo\bin\Debug\net6.0\OOPIIDemo.runtimeconfig.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day4\Solution1\OOPIIDemo\bin\Debug\net6.0\OOPIIDemo.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day4\Solution1\OOPIIDemo\bin\Debug\net6.0\OOPIIDemo.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day4\Solution1\OOPIIDemo\bin\Debug\net6.0\MyEntities.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day4\Solution1\OOPIIDemo\obj\Debug\net6.0\OOPIIDemo.csproj.AssemblyReference.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day4\Solution1\OOPIIDemo\obj\Debug\net6.0\OOPIIDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day4\Solution1\OOPIIDemo\obj\Debug\net6.0\OOPIIDemo.AssemblyInfoInputs.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day4\Solution1\OOPIIDemo\obj\Debug\net6.0\OOPIIDemo.AssemblyInfo.cs
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day4\Solution1\OOPIIDemo\obj\Debug\net6.0\OOPIIDemo.csproj.CoreCompileInputs.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day4\Solution1\OOPIIDemo\obj\Debug\net6.0\OOPIIDemo.csproj.CopyComplete
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day4\Solution1\OOPIIDemo\obj\Debug\net6.0\OOPIIDemo.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day4\Solution1\OOPIIDemo\obj\Debug\net6.0\refint\OOPIIDemo.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day4\Solution1\OOPIIDemo\obj\Debug\net6.0\OOPIIDemo.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day4\Solution1\OOPIIDemo\obj\Debug\net6.0\OOPIIDemo.genruntimeconfig.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day4\Solution1\OOPIIDemo\obj\Debug\net6.0\ref\OOPIIDemo.dll

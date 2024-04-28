@@ -1,0 +1,32 @@
+Assignments
+1. print 'Hello world' on console.
+2. Accept Name from user and print "Welcome Name" on console.
+3. Accept name as cmd line argument and Display Welcome Name message
+4. Write a C# Sharp program to find the eligibility of admission for a professional course based on the following  criteria: 
+    Marks in Maths >=65
+    Marks in Phy >=55
+    Marks in Chem>=50
+    Total in all three subject >=180
+     Accept Marks for all subject from user and Print eligiblity of user.
+5.Write a C# Sharp program to read roll no, name and marks of three subjects and calculate the total, percentage and class. 
+    Test Data :
+    Input the Roll Number of the student :784
+    Input the Name of the Student :James
+    Input the marks of Physics, Chemistry and Computer Application : 70 80 90
+    
+Expected Output :
+    Roll No : 784
+    Name of Student : James
+    Marks in Physics : 70
+    Marks in Chemistry : 80
+    Marks in Computer Application : 90
+    Total Marks = 240
+    Percentage = 80.00
+    class = First class.
+6. Write a program in C# Sharp to read any Month Number in integer and display Month name in the word.(use switch case)
+
+7. Write a program in C# Sharp to display the multiplication table vertically from 1 to 12.
+
+8. Write a program in C# Sharp to display the multiplication table Horizontally from 1 to 12.
+
+9. Write a program in C# Sharp to check accepted number is palliondrome or not.

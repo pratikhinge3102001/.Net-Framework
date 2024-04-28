@@ -1,0 +1,39 @@
+﻿@model EmpPassport
+<h1>Employee Information</h1>
+<table class="table table-bordered">
+    <tr>
+        <td>Id</td>
+        <td>@Model.Employee.Id</td>
+    </tr>
+    <tr>
+        <td>Name</td>
+        <td>@Model.Employee.Name</td>
+    </tr>
+    <tr>
+        <td>Salary</td>
+        <td>@Model.Employee.Salary</td>
+    </tr>
+    <tr>
+        <td>Address</td>
+        <td>@Model.Employee.Address</td>
+    </tr>
+    <tr>
+        <td>Gender</td>
+        <td>@Model.Employee.Gender</td>
+    </tr>
+
+    <tr>
+        <td>PassportId</td>
+        <td>@Model.Passport.PassportId</td>
+    </tr>
+    <tr>
+        <td>Nationality</td>
+        <td>@Model.Passport.Nationality</td>
+    </tr>
+    <tr>
+        <td>Expiry Date</td>
+        <td>@Model.Passport.ExpiryDate</td>
+    </tr>
+
+</table>
+

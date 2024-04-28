@@ -1,0 +1,14 @@
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.exe
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.deps.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.runtimeconfig.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfo.cs
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\ExceptionHandling\obj\Debug\net6.0\refint\ExceptionHandling.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.genruntimeconfig.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day6\Da6_Excep_Collection\ExceptionHandling\obj\Debug\net6.0\ref\ExceptionHandling.dll

@@ -1,0 +1,8 @@
+-- in program.cs file for (enablecors)
+
+//For React App
+app.UseCors(x => x
+        .AllowAnyMethod()
+        .AllowAnyHeader()
+        .SetIsOriginAllowed(origin => true) // allow any origin 
+        .AllowCredentials());

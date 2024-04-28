@@ -1,0 +1,14 @@
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day7\Delegates_LINq_FileIO\LinqDemo\bin\Debug\net6.0\LinqDemo.exe
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day7\Delegates_LINq_FileIO\LinqDemo\bin\Debug\net6.0\LinqDemo.deps.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day7\Delegates_LINq_FileIO\LinqDemo\bin\Debug\net6.0\LinqDemo.runtimeconfig.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day7\Delegates_LINq_FileIO\LinqDemo\bin\Debug\net6.0\LinqDemo.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day7\Delegates_LINq_FileIO\LinqDemo\bin\Debug\net6.0\LinqDemo.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day7\Delegates_LINq_FileIO\LinqDemo\obj\Debug\net6.0\LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day7\Delegates_LINq_FileIO\LinqDemo\obj\Debug\net6.0\LinqDemo.AssemblyInfoInputs.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day7\Delegates_LINq_FileIO\LinqDemo\obj\Debug\net6.0\LinqDemo.AssemblyInfo.cs
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day7\Delegates_LINq_FileIO\LinqDemo\obj\Debug\net6.0\LinqDemo.csproj.CoreCompileInputs.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day7\Delegates_LINq_FileIO\LinqDemo\obj\Debug\net6.0\LinqDemo.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day7\Delegates_LINq_FileIO\LinqDemo\obj\Debug\net6.0\refint\LinqDemo.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day7\Delegates_LINq_FileIO\LinqDemo\obj\Debug\net6.0\LinqDemo.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day7\Delegates_LINq_FileIO\LinqDemo\obj\Debug\net6.0\LinqDemo.genruntimeconfig.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day7\Delegates_LINq_FileIO\LinqDemo\obj\Debug\net6.0\ref\LinqDemo.dll

@@ -1,0 +1,87 @@
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\bin\Debug\net6.0\appsettings.Development.json
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\bin\Debug\net6.0\appsettings.json
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\bin\Debug\net6.0\Filters.staticwebassets.runtime.json
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\bin\Debug\net6.0\Filters.exe
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\bin\Debug\net6.0\Filters.deps.json
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\bin\Debug\net6.0\Filters.runtimeconfig.json
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\bin\Debug\net6.0\Filters.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\bin\Debug\net6.0\Filters.pdb
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\obj\Debug\net6.0\Filters.csproj.AssemblyReference.cache
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\obj\Debug\net6.0\Filters.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\obj\Debug\net6.0\Filters.AssemblyInfoInputs.cache
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\obj\Debug\net6.0\Filters.AssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\obj\Debug\net6.0\Filters.csproj.CoreCompileInputs.cache
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\obj\Debug\net6.0\Filters.MvcApplicationPartsAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\obj\Debug\net6.0\Filters.RazorAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\obj\Debug\net6.0\Filters.RazorAssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\obj\Debug\net6.0\staticwebassets.build.json
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\obj\Debug\net6.0\staticwebassets.development.json
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\obj\Debug\net6.0\scopedcss\bundle\Filters.styles.css
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\obj\Debug\net6.0\scopedcss\projectbundle\Filters.bundle.scp.css
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\obj\Debug\net6.0\Filters.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\obj\Debug\net6.0\refint\Filters.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\obj\Debug\net6.0\Filters.pdb
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\obj\Debug\net6.0\Filters.genruntimeconfig.cache
+E:\Yogesh\SEO\Yogihosting\codes 6.0\Filters\Filters\obj\Debug\net6.0\ref\Filters.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\bin\Debug\net6.0\appsettings.json
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\bin\Debug\net6.0\Filters.staticwebassets.runtime.json
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\bin\Debug\net6.0\Filters.exe
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\bin\Debug\net6.0\Filters.deps.json
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\bin\Debug\net6.0\Filters.runtimeconfig.json
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\bin\Debug\net6.0\Filters.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\bin\Debug\net6.0\Filters.pdb
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\obj\Debug\net6.0\Filters.csproj.AssemblyReference.cache
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\obj\Debug\net6.0\Filters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\obj\Debug\net6.0\Filters.AssemblyInfoInputs.cache
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\obj\Debug\net6.0\Filters.AssemblyInfo.cs
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\obj\Debug\net6.0\Filters.csproj.CoreCompileInputs.cache
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\obj\Debug\net6.0\Filters.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\obj\Debug\net6.0\Filters.RazorAssemblyInfo.cache
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\obj\Debug\net6.0\Filters.RazorAssemblyInfo.cs
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\obj\Debug\net6.0\staticwebassets\msbuild.Filters.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\obj\Debug\net6.0\staticwebassets\msbuild.build.Filters.props
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Filters.props
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Filters.props
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\obj\Debug\net6.0\scopedcss\bundle\Filters.styles.css
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\obj\Debug\net6.0\scopedcss\projectbundle\Filters.bundle.scp.css
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\obj\Debug\net6.0\Filters.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\obj\Debug\net6.0\refint\Filters.dll
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\obj\Debug\net6.0\Filters.pdb
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\obj\Debug\net6.0\Filters.genruntimeconfig.cache
+C:\Users\sneha\OneDrive\Desktop\29-July-23\Filters\Filters\obj\Debug\net6.0\ref\Filters.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\bin\Debug\net6.0\appsettings.Development.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\bin\Debug\net6.0\appsettings.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\bin\Debug\net6.0\Filters.staticwebassets.runtime.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\bin\Debug\net6.0\Filters.exe
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\bin\Debug\net6.0\Filters.deps.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\bin\Debug\net6.0\Filters.runtimeconfig.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\bin\Debug\net6.0\Filters.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\bin\Debug\net6.0\Filters.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\obj\Debug\net6.0\Filters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\obj\Debug\net6.0\Filters.AssemblyInfoInputs.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\obj\Debug\net6.0\Filters.AssemblyInfo.cs
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\obj\Debug\net6.0\Filters.csproj.CoreCompileInputs.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\obj\Debug\net6.0\Filters.MvcApplicationPartsAssemblyInfo.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\obj\Debug\net6.0\Filters.RazorAssemblyInfo.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\obj\Debug\net6.0\Filters.RazorAssemblyInfo.cs
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\obj\Debug\net6.0\staticwebassets.build.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\obj\Debug\net6.0\staticwebassets.development.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\obj\Debug\net6.0\staticwebassets\msbuild.Filters.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\obj\Debug\net6.0\staticwebassets\msbuild.build.Filters.props
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Filters.props
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Filters.props
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\obj\Debug\net6.0\scopedcss\bundle\Filters.styles.css
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\obj\Debug\net6.0\scopedcss\projectbundle\Filters.bundle.scp.css
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\obj\Debug\net6.0\Filters.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\obj\Debug\net6.0\refint\Filters.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\obj\Debug\net6.0\Filters.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\obj\Debug\net6.0\Filters.genruntimeconfig.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day13\Filters\Filters\obj\Debug\net6.0\ref\Filters.dll

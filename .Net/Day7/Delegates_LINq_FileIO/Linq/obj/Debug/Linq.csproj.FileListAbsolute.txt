@@ -1,0 +1,7 @@
+\\192.168.1.6\Student_Data\For DAC\.Net\Day7\Delegates_LINq_FileIO\Linq\obj\Debug\Linq.csproj.AssemblyReference.cache
+\\192.168.1.6\Student_Data\For DAC\.Net\Day7\Delegates_LINq_FileIO\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+\\192.168.1.6\Student_Data\For DAC\.Net\Day7\Delegates_LINq_FileIO\Linq\bin\Debug\Linq.exe.config
+\\192.168.1.6\Student_Data\For DAC\.Net\Day7\Delegates_LINq_FileIO\Linq\bin\Debug\Linq.exe
+\\192.168.1.6\Student_Data\For DAC\.Net\Day7\Delegates_LINq_FileIO\Linq\bin\Debug\Linq.pdb
+\\192.168.1.6\Student_Data\For DAC\.Net\Day7\Delegates_LINq_FileIO\Linq\obj\Debug\Linq.exe
+\\192.168.1.6\Student_Data\For DAC\.Net\Day7\Delegates_LINq_FileIO\Linq\obj\Debug\Linq.pdb

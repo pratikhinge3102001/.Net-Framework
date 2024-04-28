@@ -1,0 +1,19 @@
+﻿@model Employee
+<form asp-controller="Employee" asp-action="UpdateEmp" method="post">
+    <div class="form-group">
+        <label>Id: </label>
+        <input type="text" asp-for="Id" class="form-control" readonly="readonly" />
+    </div>
+    <div class="form-group">
+        <label>Name: </label>
+        <input type="text" asp-for="Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Salary: </label>
+        <input type="text" asp-for="Salary" class="form-control" />
+    </div>
+    <div>
+        <input type="submit" value="Update" class="btn btn-primary" />
+    </div>
+
+</form>

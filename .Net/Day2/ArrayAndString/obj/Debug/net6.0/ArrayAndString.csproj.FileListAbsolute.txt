@@ -1,0 +1,14 @@
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day2\ArrayAndString\bin\Debug\net6.0\ArrayAndString.exe
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day2\ArrayAndString\bin\Debug\net6.0\ArrayAndString.deps.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day2\ArrayAndString\bin\Debug\net6.0\ArrayAndString.runtimeconfig.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day2\ArrayAndString\bin\Debug\net6.0\ArrayAndString.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day2\ArrayAndString\bin\Debug\net6.0\ArrayAndString.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day2\ArrayAndString\obj\Debug\net6.0\ArrayAndString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day2\ArrayAndString\obj\Debug\net6.0\ArrayAndString.AssemblyInfoInputs.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day2\ArrayAndString\obj\Debug\net6.0\ArrayAndString.AssemblyInfo.cs
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day2\ArrayAndString\obj\Debug\net6.0\ArrayAndString.csproj.CoreCompileInputs.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day2\ArrayAndString\obj\Debug\net6.0\ArrayAndString.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day2\ArrayAndString\obj\Debug\net6.0\refint\ArrayAndString.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day2\ArrayAndString\obj\Debug\net6.0\ArrayAndString.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day2\ArrayAndString\obj\Debug\net6.0\ArrayAndString.genruntimeconfig.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day2\ArrayAndString\obj\Debug\net6.0\ref\ArrayAndString.dll

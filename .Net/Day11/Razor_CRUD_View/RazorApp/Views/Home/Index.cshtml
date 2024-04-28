@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@{
+    string msg = "Welcome Students";
+    string date = DateTime.Now.ToString();
+}
+<h1>@msg</h1>
+<h2>@date</h2>
+<h1>---------------Inside C#------------------</h1>
+
+@{
+    string msg1 = "Welcome Students";
+    string date1 = DateTime.Now.ToString();
+    @:<h1>@msg1</h1>
+    <text><h2>@date1</h2></text>
+}
+<h1>---------------Inside C#------------------</h1>
+@for (int i = 0; i < 10; i++)
+{
+    @i.ToString() <br/>
+}
+
+<h1>--------------If----------------</h1>
+@if(DateTime.IsLeapYear(DateTime.Now.Year))
+{
+    <h1>This is Leap Year </h1>
+}
+else
+{
+    <h1>This is Not Leap Year </h1>
+}
+

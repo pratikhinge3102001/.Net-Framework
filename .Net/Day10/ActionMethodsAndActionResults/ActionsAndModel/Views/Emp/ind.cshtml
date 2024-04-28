@@ -1,0 +1,26 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{model Employee
+<div>
+@using(Html.BeginForm("Index","Employee",FormMethod.Post))
+        {
+            <table>
+            <td></td>@Html.LabelFor(m=>m.Name,new{@class="label-control"})</td><tr>
+            </tr><td>@Html.TextBoxFor(m=>m.Name,new{@class="form-control"})</td>
+            </tr>
+            <tr><td>@Html.TextAreaFor(m=>m.Address,new{@class="form-control"</td></tr>
+            <tr><td>@Html.PasswordFor(m=>m.Password,new{@class="form-control"})</td></tr>
+            <tr><td>@Html.RadioButtonFor(m=>m.Gender,"Male",new{id="male-true"})Male</td></tr>
+            <tr><td>@Html.RadioButtonFor(m=>m.Gender,"Female",new{id="female-true"})Female</td></tr>
+            <tr><td>@Html.CheckBoxFor(m=>m.agree)I agree terms and conditions</td></tr>
+            <tr><td>@Html.ListBoxFor(m=>m.skills,new SelectList(Enum.GetValues(typesof(skills))),new{@class="form-control"})</td></tr>
+            <tr><td>@Html.DropDownListFor(m=>m.city,new SelectList(Enum.getvalues(typeof(city))),"Select city",new{@class="form-control"})</td></tr>
+            <tr><td><button type="submit">Save</button></td></tr>
+            <tr><td></td></tr>
+            <tr><td></td></tr>
+            </table>
+        }
+        @Html.ActionLink("thank you","thnks")
+        </div>
+        }

@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Built-in HTML Helper</title>
+</head>
+<body>
+    <div>
+        <h3>Label example</h3>
+        @Html.Label("firstName", "First Name")
+
+        <h3>Text Box Example</h3>
+        @Html.TextBox("txtFirstName", "", new { @class = "form-control", placeholder = "First Name" })
+
+        <h3>Text Area Example</h3>
+        @Html.TextArea("address", new { @class = "form-control", rows = "5" })
+
+        <h3>password Example</h3>
+        @Html.Password("password", " ", new { @class = "form-control" })
+
+        <h3>Radio Button Example</h3>
+        @Html.RadioButton("MaritalStatus", "Married", new { id = "IsMarried" }) Married
+        @Html.RadioButton("MaritalStatus", "UnMarried", new { id = "IsMarried" }) UnMarried
+
+        <h3>Check Box Example</h3>
+        @Html.CheckBox("htmlSkill") HTML 5
+
+        <h3>List Box Example</h3>
+        @Html.ListBox("Skills", new List<SelectListItem> {
+        new SelectListItem { Text="ASP.NET",Value="1"},
+        new SelectListItem { Text="MVC",Value="2"},
+        new SelectListItem { Text="SQL Server",Value="3"},
+        new SelectListItem { Text="Angular",Value="4"},
+        new SelectListItem { Text="Web API",Value="5"}
+        }, new { @class = "form-control" })
+
+        <h3>drop down List Example</h3>
+        @Html.DropDownList("Gender", new List<SelectListItem> {
+        new SelectListItem {Text="Select Gender",Value="-1" },
+        new SelectListItem {Text="Male",Value="1" },
+        new SelectListItem {Text="Female", Value="2" }
+        }, new { @class = "custom-select" })
+
+    </div>
+</body>
+</html>

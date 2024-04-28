@@ -1,0 +1,24 @@
+﻿@model Employee
+<form asp-controller="Employee" asp-action="AddEmp" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="form-group">
+        <label>Id: </label>
+        <input type="text" asp-for="Id" class="form-control" />
+        <span asp-validation-for="Id" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Name: </label>
+        <input type="text" asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Salary: </label>
+        <input type="text" asp-for="Salary" class="form-control" />
+        <span asp-validation-for="Salary" class="text-danger"></span>
+    </div>
+    
+    <div>
+        <input type="submit" value="Save" class="btn btn-primary" />
+    </div>
+
+</form>

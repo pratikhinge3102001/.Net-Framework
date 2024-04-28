@@ -1,0 +1,14 @@
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\Miscellanious\bin\Debug\net6.0\Miscellanious.exe
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\Miscellanious\bin\Debug\net6.0\Miscellanious.deps.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\Miscellanious\bin\Debug\net6.0\Miscellanious.runtimeconfig.json
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\Miscellanious\bin\Debug\net6.0\Miscellanious.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\Miscellanious\bin\Debug\net6.0\Miscellanious.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\Miscellanious\obj\Debug\net6.0\Miscellanious.GeneratedMSBuildEditorConfig.editorconfig
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\Miscellanious\obj\Debug\net6.0\Miscellanious.AssemblyInfoInputs.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\Miscellanious\obj\Debug\net6.0\Miscellanious.AssemblyInfo.cs
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\Miscellanious\obj\Debug\net6.0\Miscellanious.csproj.CoreCompileInputs.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\Miscellanious\obj\Debug\net6.0\Miscellanious.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\Miscellanious\obj\Debug\net6.0\refint\Miscellanious.dll
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\Miscellanious\obj\Debug\net6.0\Miscellanious.pdb
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\Miscellanious\obj\Debug\net6.0\Miscellanious.genruntimeconfig.cache
+C:\Snehal\CDAC\Sept 23\DAC\.net\Sept23Demo\Day8\Day8_stream_Reflect_Thread\Miscellanious\obj\Debug\net6.0\ref\Miscellanious.dll
